@@ -1,12 +1,20 @@
 ---
 setup: |
   import Layout from '../../layouts/BlogPost.astro'
-title: First
+title: Welcome
 publishDate: 18 April 2022
 cover: https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png
-description: just write your description about article first.
+description: Welcome to cuteblog unique blog template
 ---
 
-Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok
+[Cuteblog](https://cuteblog.netlify.app/) is a open source code and free template for build and develope modern website with many technology.
+for first we create cuteblog for astro but next we promise develope for jekyll,react,eleventy and pico cms, so stay tuneed.....
 
-Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok Lorepipsum dolor siamet amet jabang bayi lanag wedok
+visit home page :
+
+- [https://cuteblog.web.app/](https://cuteblog.web.app/)
+- [https://cuteblog.firebaseapp.com/](https://cuteblog.firebaseapp.com/)
+
+documentation :
+
+- [https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html](https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html)
