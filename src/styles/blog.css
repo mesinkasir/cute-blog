@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+html,
+body {
+  background-color: sandybrown;
+  font-family: 'Grape Nuts', cursive;
+}
+.dropdown-menu,
+.card {
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+}
+.nav-link,
+a:visited,
+a:hover,
+a:link {
+  color: black;
+  text-decoration: none;
+}
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 40px;
+}
+.call {
+  font-size: 30px;
+}
+.date,
+.nav {
+  font-size: 20px;
+}
+.cute,
+p {
+  font-size: 24px;
+}
+.dotted {
+  border-style: dotted;
+}
+.dashed {
+  border-style: dashed;
+}

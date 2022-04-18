@@ -1,0 +1,28 @@
+---
+
+export interface Props {
+	title: string;
+	description: string;
+	publishDate: string;
+	cover: string;
+}
+
+const { title,description, cover, publishDate } = Astro.props;
+---
+
+<div class="row mb-5 mt-1 p-3">
+	<article class="card p-1">
+		<div>
+			<header>
+			<img class="img-fluid card" width="100%" alt={title} src={cover}/>
+			</header>
+			<main class="p-3 p-md-5">
+				<h1><a href="/">{title} <span class="cute">✏️</span></a></h1>
+				<h3>📝 {description}</h3>
+				<p>⏰ {publishDate}</p>
+				<p class="dotted"/>
+				 <slot />
+			</main>
+		</div>
+	</article>
+</div>

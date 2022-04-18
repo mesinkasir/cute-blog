@@ -1,0 +1,19 @@
+---
+export interface Props {
+	post: any;
+}
+
+const { post } = Astro.props;
+---
+
+<article class="col-md-4 p-3">
+	<a href={post.url} class="card p-1">
+	<img class="img-fluid card" alt={post.frontmatter.title} src={post.frontmatter.cover}/>
+	<main class="card-content p-3">
+		<p class="date">⏰ {post.frontmatter.publishDate}</p>
+		<h3>{post.frontmatter.title} <span class="cute">✏️</span></h3>
+	<p>📝 {post.frontmatter.description}</p>
+	</main>
+	</a>
+</article>
+

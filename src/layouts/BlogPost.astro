@@ -1,0 +1,19 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import BlogHeader from '../components/BlogHeader.astro';
+import BlogPost from '../components/BlogPost.astro';
+import Call from '../components/Contact.astro';
+
+
+const { content } = Astro.props;
+const { title, description, publishDate, cover, permalink, alt } = content;
+---
+<BaseHead {title} {description} {cover} {permalink} />
+	<body>
+		<div class="container">
+		<BlogHeader />
+			<BlogPost {title} {description} {cover} {publishDate} {alt}>
+				<slot />
+			</BlogPost>
+		</div>
+		<Call/>
