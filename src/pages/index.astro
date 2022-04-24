@@ -21,6 +21,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
 				<header class="col-12 p-3 p-md-5">
 					<h1><a href="/">{title} ✒️</a></h1>
 					<h2>{description}</h2>
+					<p><a href="https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html">Read Documentation →</a></p>
 				</header>
 				<section class="row mb-5 p-3">
 					{allPosts.map((p) => <BlogPostPreview post={p} />)}

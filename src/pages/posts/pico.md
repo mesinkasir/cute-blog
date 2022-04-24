@@ -7,13 +7,14 @@ cover: https://img.freepik.com/free-vector/people-putting-puzzle-pieces-together
 description: Cuteblog template build for pico cms
 ---
 
-Cuteblog for [pico cms](https://picocms.org) is on progress development stay tuned....
+Cuteblog for [pico cms](https://picocms.org) is finish now you can download it for free..
+
+Download and demo cuteblog for pico cms
+
+- [Download and doc →](https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html)
+- [Tes Drive Demo →](https://axcora.my.id/pico/cuteblog)
 
 visit home page :
 
 - [https://cuteblog.web.app/](https://cuteblog.web.app/)
 - [https://cuteblog.firebaseapp.com/](https://cuteblog.firebaseapp.com/)
-
-documentation :
-
-- [https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html](https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html)

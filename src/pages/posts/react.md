@@ -7,13 +7,14 @@ cover: https://img.freepik.com/free-vector/happy-freelancer-with-computer-home-y
 description: Cuteblog template build for react
 ---
 
-Cuteblog for react and [react](https://reactjs.org) helmet for SEO is on progress development stay tuned....
+Cuteblog for react and [react](https://reactjs.org) helmet for SEO is finish now you can download it for free...
+
+Download and demo cuteblog for React
+
+- [Download and doc →](https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html)
+- [Tes Drive Demo →](https://cuteblog.vercel.app/)
 
 visit home page :
 
 - [https://cuteblog.web.app/](https://cuteblog.web.app/)
 - [https://cuteblog.firebaseapp.com/](https://cuteblog.firebaseapp.com/)
-
-documentation :
-
-- [https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html](https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html)
