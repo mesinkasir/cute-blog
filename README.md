@@ -15,3 +15,5 @@ Test demo source code [https://cuteblog.netlify.app/](https://cuteblog.netlify.a
 For CMS backend you can forestry then integrate with your repo.
 
 #withastro #astro #astrobuild
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57f948a0-eb51-477d-8bb8-706f651910b3/deploy-status)](https://app.netlify.com/sites/cuteblog/deploys)
