@@ -27,3 +27,9 @@ Astro Landing Page
 - [download astro landing page →](https://github.com/mesinkasir/astro-landingpage-bang)
 - [run astro landing page demo →](https://bangresto.vercel.app/)
 - [documentation astro landing page →](https://www.hockeycomputindo.com/2022/05/new-astro-landing-page-template-free.html)
+
+Astronot with Astro
+
+- [download astronot with astro →](https://github.com/mesinkasir/astronot-with-astro)
+- [run astronot with astro demo →](https://astronot.axcora.com/cms)
+- [documentation astronot with astro page →](https://astronot.axcora.com/cms)
