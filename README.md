@@ -8,12 +8,10 @@ Documentation & Installation [https://www.hockeycomputindo.com/2022/04/cute-blog
 
 Test demo link 1 [https://cuteblog.web.app/](https://cuteblog.web.app/)
 
-Test demo link 2 [https://cuteblog.firebaseapp.com/](https://cuteblog.firebaseapp.com/)
-
 Test demo source code [https://cuteblog.netlify.app/](https://cuteblog.netlify.app/)
-
-For CMS backend you can forestry then integrate with your repo.
 
 #withastro #astro #astrobuild
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57f948a0-eb51-477d-8bb8-706f651910b3/deploy-status)](https://app.netlify.com/sites/cuteblog/deploys)
+
+<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
